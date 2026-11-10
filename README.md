@@ -1,6 +1,6 @@
 # 🏛️ Site de Arquitetura em React
 
-Site institucional de um escritório de arquitetura, desenvolvido com **React** e **Vite** durante a formação em Engenharia de Software da Escola DNC.
+Site institucional de um escritório de arquitetura, desenvolvido com **React** e **Vite** durante a formação em desenvolvimento de software da Escola DNC.
 
 🔗 **Ver online:** https://mgarajau.github.io/site-arquitetura-react/
 
